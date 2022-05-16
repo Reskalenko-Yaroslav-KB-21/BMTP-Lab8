@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1652697713 source:d:\Лабы БМТП\Лаб 8\8.1(дороботка)\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+	"moduleReskalenko.h"
+
+1652697576 d:\Лабы БМТП\lib8\modulereskalenko.h
+	<cmath>
+	<math.h>
+	<iostream>
+
+1652697713 source:d:\bmtp lab8\prj\lab8\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+	"moduleReskalenko.h"
+
